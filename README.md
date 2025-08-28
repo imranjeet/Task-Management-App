@@ -141,7 +141,7 @@ lib/
 - No additional setup required - just install and use
 - All features are fully functional in the APK version
 
-```
+
 
 ## Usage
 
