@@ -3,14 +3,14 @@
 A modern Flutter task management application built with clean architecture and BLoC pattern for state management. This app allows workers to efficiently manage their tasks with features like authentication, task creation, editing, and filtering.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./assets/6.jpeg" width="350" />
-    <img src="./assets/1.jpeg" width="350" />
-    <img src="./assets/5.jpeg" width="350" />
+    <img src="./assets/6.jpeg" width="250" />
+    <img src="./assets/1.jpeg" width="250" />
+    <img src="./assets/5.jpeg" width="250" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="./assets/4.jpeg" width="350" />
-    <img src="./assets/2.jpeg" width="350" />
-    <img src="./assets/3.jpeg" width="350" />
+    <img src="./assets/4.jpeg" width="250" />
+    <img src="./assets/2.jpeg" width="250" />
+    <img src="./assets/3.jpeg" width="250" />
 </div>
 
 
